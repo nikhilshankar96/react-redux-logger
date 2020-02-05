@@ -1,11 +1,18 @@
 {
   "logs": [
     {
-      "message": "asas",
+      "message": "as",
       "attention": false,
       "tech": "John Doe",
-      "date": "2020-02-05T17:11:34.083Z",
+      "date": "2020-02-05T17:53:57.388Z",
       "id": 1
+    },
+    {
+      "id": 2,
+      "message": "fixed red",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-02-05T18:04:57.867Z"
     }
   ],
   "techs": [
